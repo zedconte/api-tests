@@ -1,0 +1,8 @@
+<suite name="DemoSuite" verbose ="5" parallel="methods" thread-count="10">
+    <test name="DemoTest">
+
+        <classes>
+            <class name="ApiTest"></class>
+        </classes>
+    </test>
+</suite>
